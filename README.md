@@ -1,3 +1,15 @@
+Neste projeto, contem os seguintes exemplos:
+
+- ngIf
+- ngSwitch
+- ngFor
+- ngClass
+- ngStyle
+- Operador Elvis
+- ngContent
+- Diretivas customizadas
+
+
 # Diretivas
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
